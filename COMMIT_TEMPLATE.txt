@@ -1,3 +1,11 @@
-echo # Commit Title >> COMMIT_TEMPLATE.txt
-echo - What changed? >> COMMIT_TEMPLATE.txt
-echo - Why? >> COMMIT_TEMPLATE.txt
+# Commit Title
+- What changed?
+- Why?
+
+
+# Related Issues
+- Closes #ISSUE_NUMBER (if any)
+
+
+# Notes (optional)
+- Additional context for reviewers.
