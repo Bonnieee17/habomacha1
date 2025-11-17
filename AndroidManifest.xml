@@ -1,0 +1,11 @@
+<manifest package="com.habomacha.rootsoflife" xmlns:android="http://schemas.android.com/apk/res/android">
+<application android:label="Roots of Life" android:icon="@mipmap/ic_launcher">
+<activity android:name="com.habomacha.rootsoflife.DetailActivity" />
+<activity android:name="com.habomacha.rootsoflife.MainActivity">
+<intent-filter>
+<action android:name="android.intent.action.MAIN" />
+<category android:name="android.intent.category.LAUNCHER" />
+</intent-filter>
+</activity>
+</application>
+</manifest>
