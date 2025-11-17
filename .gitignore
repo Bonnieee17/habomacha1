@@ -1,7 +1,7 @@
-echo *.iml>> .gitignore
-echo .gradle>> .gitignore
-echo /local.properties>> .gitignore
-echo /.idea/>> .gitignore
-echo /build/>> .gitignore
-echo */build/>> .gitignore
-echo .navigation/>> .gitignore
+*.iml
+.gradle
+/local.properties
+/.idea/
+/build/
+*/build/
+.navigation/
