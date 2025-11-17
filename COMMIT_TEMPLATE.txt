@@ -1,0 +1,3 @@
+echo # Commit Title >> COMMIT_TEMPLATE.txt
+echo - What changed? >> COMMIT_TEMPLATE.txt
+echo - Why? >> COMMIT_TEMPLATE.txt
