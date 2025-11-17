@@ -1,0 +1,13 @@
+mkdir app
+mkdir app\src
+mkdir app\src\main
+mkdir app\src\main\java
+mkdir app\src\main\java\com
+mkdir app\src\main\java\com\habomacha
+mkdir app\src\main\java\com\habomacha\rootsoflife
+mkdir app\src\main\java\com\habomacha\rootsoflife\model
+mkdir app\src\main\java\com\habomacha\rootsoflife\data
+mkdir app\src\main\java\com\habomacha\rootsoflife\adapter
+mkdir app\src\main\res
+mkdir app\src\main\res\layout
+mkdir app\src\main\res\values
