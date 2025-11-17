@@ -1,0 +1,11 @@
+echo ^<manifest package="com.habomacha.rootsoflife" xmlns:android="http://schemas.android.com/apk/res/android"^> > app\src\main\AndroidManifest.xml
+echo   ^<application android:label="Roots of Life" android:icon="@mipmap/ic_launcher"^> >> app\src\main\AndroidManifest.xml
+echo       ^<activity android:name="com.habomacha.rootsoflife.DetailActivity" /^> >> app\src\main\AndroidManifest.xml
+echo       ^<activity android:name="com.habomacha.rootsoflife.MainActivity"^> >> app\src\main\AndroidManifest.xml
+echo           ^<intent-filter^> >> app\src\main\AndroidManifest.xml
+echo               ^<action android:name="android.intent.action.MAIN" /^> >> app\src\main\AndroidManifest.xml
+echo               ^<category android:name="android.intent.category.LAUNCHER" /^> >> app\src\main\AndroidManifest.xml
+echo           ^</intent-filter^> >> app\src\main\AndroidManifest.xml
+echo       ^</activity^> >> app\src\main\AndroidManifest.xml
+echo   ^</application^> >> app\src\main\AndroidManifest.xml
+echo ^</manifest^> >> app\src\main\AndroidManifest.xml
